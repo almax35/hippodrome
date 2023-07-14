@@ -1,0 +1,57 @@
+2023-07-15 00:03:05,046 INFO Main [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:03:25,622 INFO Main [main] Окончание скачек. Поедитель: Вишня
+2023-07-15 00:04:12,784 INFO Main [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:04:13,164 INFO Main [main] Окончание скачек. Поедитель: Вишня
+2023-07-15 00:08:19,362 INFO Main [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:08:19,737 INFO Main [main] Окончание скачек. Поедитель: Вишня
+2023-07-15 00:08:29,917 INFO Main [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:08:30,381 INFO Main [main] Окончание скачек. Поедитель: Вишня
+2023-07-15 00:09:29,651 INFO MyLogger [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:09:30,035 INFO MyLogger [main] Окончание скачек. Поедитель: Вишня
+2023-07-15 00:23:42,127 DEBUG Horse [main] Создание Horse: имя Буцефал, скорость 2.4
+2023-07-15 00:23:42,134 DEBUG Horse [main] Создание Horse: имя Туз Пик, скорость 2.5
+2023-07-15 00:23:42,134 DEBUG Horse [main] Создание Horse: имя Зефир, скорость 2.6
+2023-07-15 00:23:42,134 DEBUG Horse [main] Создание Horse: имя Пожар, скорость 2.7
+2023-07-15 00:23:42,134 DEBUG Horse [main] Создание Horse: имя Лобстер, скорость 2.8
+2023-07-15 00:23:42,135 DEBUG Horse [main] Создание Horse: имя Пегас, скорость 2.9
+2023-07-15 00:23:42,135 DEBUG Horse [main] Создание Horse: имя Вишня, скорость 3.0
+2023-07-15 00:23:42,135 INFO Main [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:23:42,137 DEBUG Horse [main] Создание Horse: имя horse, скорость 100.0
+2023-07-15 00:23:42,501 INFO Main [main] Окончание скачек. Поедитель: Вишня
+2023-07-15 00:32:58,312 DEBUG Horse [main] Создание hippodrome. Лошадей: 50
+2023-07-15 00:32:58,576 ERROR Horse [main] Horses list is null
+2023-07-15 00:32:58,587 DEBUG Horse [main] Создание hippodrome. Лошадей: 30
+2023-07-15 00:32:58,607 ERROR Horse [main] Horses list is null
+2023-07-15 00:32:58,614 DEBUG Horse [main] Создание hippodrome. Лошадей: 30
+2023-07-15 00:32:58,624 ERROR Horse [main] Horses list is empty
+2023-07-15 00:32:58,630 ERROR Horse [main] Horses list is empty
+2023-07-15 00:32:58,897 ERROR Horse [main] Distance is negative
+2023-07-15 00:32:58,915 ERROR Horse [main] Distance is negative
+2023-07-15 00:32:58,922 ERROR Horse [main] Distance is negative
+2023-07-15 00:32:58,954 DEBUG Horse [main] Создание Horse: имя horse, скорость 1.0
+2023-07-15 00:32:58,977 ERROR Horse [main] Speed is negative
+2023-07-15 00:32:58,987 ERROR Horse [main] Speed is negative
+2023-07-15 00:32:58,995 ERROR Horse [main] Speed is negative
+2023-07-15 00:32:59,010 ERROR Horse [main] Name is blank
+2023-07-15 00:32:59,018 ERROR Horse [main] Name is blank
+2023-07-15 00:32:59,033 ERROR Horse [main] Speed is negative
+2023-07-15 00:32:59,048 ERROR Horse [main] Speed is negative
+2023-07-15 00:32:59,058 ERROR Horse [main] Speed is negative
+2023-07-15 00:32:59,064 DEBUG Horse [main] Создание Horse: имя horse, скорость 100.0
+2023-07-15 00:32:59,083 ERROR Horse [main] Name is null
+2023-07-15 00:32:59,102 ERROR Horse [main] Name is blank
+2023-07-15 00:32:59,109 ERROR Horse [main] Name is blank
+2023-07-15 00:32:59,116 ERROR Horse [main] Name is null
+2023-07-15 00:32:59,124 ERROR Horse [main] Distance is negative
+2023-07-15 00:32:59,130 ERROR Horse [main] Distance is negative
+2023-07-15 00:32:59,137 ERROR Horse [main] Distance is negative
+2023-07-15 00:35:11,668 DEBUG Horse [main] Создание Horse: имя Буцефал, скорость 2.4
+2023-07-15 00:35:11,673 DEBUG Horse [main] Создание Horse: имя Туз Пик, скорость 2.5
+2023-07-15 00:35:11,673 DEBUG Horse [main] Создание Horse: имя Зефир, скорость 2.6
+2023-07-15 00:35:11,673 DEBUG Horse [main] Создание Horse: имя Пожар, скорость 2.7
+2023-07-15 00:35:11,674 DEBUG Horse [main] Создание Horse: имя Лобстер, скорость 2.8
+2023-07-15 00:35:11,674 DEBUG Horse [main] Создание Horse: имя Пегас, скорость 2.9
+2023-07-15 00:35:11,674 DEBUG Horse [main] Создание Horse: имя Вишня, скорость 3.0
+2023-07-15 00:35:11,674 INFO Main [main] Начало скачек. Кол-во участников: 7
+2023-07-15 00:35:11,676 DEBUG Horse [main] Создание hippodrome. Лошадей: 7
+2023-07-15 00:35:12,054 INFO Main [main] Окончание скачек. Поедитель: Вишня
