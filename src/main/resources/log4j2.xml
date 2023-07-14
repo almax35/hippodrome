@@ -1,0 +1,28 @@
+<Configuration status="debug" name="Hippodrome" packages="">\
+    <Properties>
+        <!-- Установите значение переменной контекста "logFilename" -->
+        <Property name="logFilename">${date:yyyy-MM-dd}</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="RollingFile" fileName="logs/hippodrome.${logFilename}.log" filePattern="logs/app-%d{MM-dd-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy>
+                <Delete>
+                    <IfFileName glob="*/hippodrome.*.log.gz" />
+                    <IfLastModified age="P7D" />
+            </Delete>
+        </DefaultRolloverStrategy>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="RollingFile"/>
+        </Root>
+    </Loggers>
+</Configuration>
